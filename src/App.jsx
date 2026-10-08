@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="app">
       <nav className="navbar">
-        <h2>DevOps CI Demo</h2>
+        <h2>DevOps CI Pipeline</h2>
         <span className="status">● CI Ready</span>
       </nav>
 
