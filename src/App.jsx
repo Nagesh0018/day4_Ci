@@ -18,7 +18,7 @@ function App() {
           <h1>
             React Project
             <br />
-            <span>CI Pipeline Demo</span>
+            <span>CI Pipeline </span>
           </h1>
 
           <p className="description">
